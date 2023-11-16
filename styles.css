@@ -8,3 +8,6 @@
 div:first-child p {
   background color: black;
 }
+body{
+	background color:rgb(255, 255, 255);
+}

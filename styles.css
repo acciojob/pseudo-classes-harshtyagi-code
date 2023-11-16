@@ -2,12 +2,16 @@
 .blackk{
 	background color:black;
 }
-.redd{
+div:last-child p {
 	color:red;
 }
 div:first-child p {
   background color: black;
 }
 body{
-	background color:rgb(255, 255, 255);
+	background color:rgb(135, 206, 235);
+}
+li{
+	width:50%;
+	padding:10px;
 }

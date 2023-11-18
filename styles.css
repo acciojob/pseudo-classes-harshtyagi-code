@@ -8,8 +8,8 @@ div:last-child p {
 div:first-child p {
   background color: black;
 }
-body{
-	background color:rgb(0, 0, 0,0);
+:root{
+	background color:rgb(135, 206, 235);
 }
 li{
 	width:50%;
